@@ -19,7 +19,7 @@
 #define BLUE      0x04
 #define GREEN     0x08
 #define PF123_mask             0x0E
-#define PF04_mask               0x11
+#define PF04_mask               0x10
 #define PF_mask                0x20
 
  
