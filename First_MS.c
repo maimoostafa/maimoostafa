@@ -35,6 +35,6 @@ int main(){
 REDLED_Init();
 SW_Init();
 while(1){
-if (SW_input()==0x00){ // if both are pressed
+if (SW_input()==0x10){ 
 LEDs_output(0x02); // red led
  }}}
